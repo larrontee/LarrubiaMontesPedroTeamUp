@@ -1,12 +1,13 @@
 # TeamUp
-Curso Escolar 2022-2023 
-Autor: Pedro Larrubia Montes.
-Tutor: Chema García Durán.
-Fecha de inicio:13/03/2023
-Fecha de finalización:
+#### Curso Escolar 2022-2023
+#### Autor: Pedro Larrubia Montes.
+#### Tutor: Chema García Durán.
+#### Fecha de inicio:13/03/2023
+#### Fecha de finalización:
 
 ## Descripición
-Este es el repositorio para mi proyecto final del curso de la fomación profesional en desarrollo de aplicaciones web. Se trata de una aplicación donde su objetivo es reunir a las personas necesarias para completar tus partiditos entre colegas, partidas de mesa o video juegos.
+Este es el repositorio para mi proyecto 
+final del curso de la fomación profesional en desarrollo de aplicaciones web. Se trata de una aplicación donde su objetivo es reunir a las personas necesarias para completar tus partiditos entre colegas, partidas de mesa o video juegos.
  
 ## Objetivo
 El objetivo trata en que tu puedes publicar un evento facilitando el sitio, fecha y tipo mientras los demas usuarios veran el evento y podran solicitar unirse asi el organizador del evento podra gestionarlo como el desee.
