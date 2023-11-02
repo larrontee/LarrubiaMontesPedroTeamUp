@@ -1,7 +1,7 @@
 # TeamUp
 #### Curso Escolar 2022-2023
 #### Autor: Pedro Larrubia Montes.
-#### Tutor: Chema García Durán.
+#### Tutor: Antonio Gabriel González Casado.
 #### Fecha de inicio: 13/03/2023
 #### Fecha de finalización:
 
